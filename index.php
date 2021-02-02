@@ -63,7 +63,7 @@
           <p class="lead my-3">
           Colaborador do Itaú Unibanco há 20 anos, atuando na operação de Telecom do ambiente de Pontos de Venda desde 2010
           </p>
-          <p class="lead mb-0"><a href="#" class="https://api.whatsapp.com/send?phone=5519999999999&text=Rafael,%20quero%20entrar%20em%20contato%20com%20voc%C3%AA">Contato via whatsapp...</a></p>
+          <p class="lead mb-0"><a target="_blank" href="https://api.whatsapp.com/send?phone=5519999999999&text=Rafael,%20quero%20entrar%20em%20contato%20com%20voc%C3%AA">Contato via whatsapp...</a></p>
         </div>
       </div>
 
