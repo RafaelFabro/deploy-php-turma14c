@@ -79,7 +79,7 @@
               <p class="card-text mb-auto">Frango virtual para sua diversão.</p>
               <a href="#">Compre agora</a>
             </div>
-            <img class="card-img-right flex-auto d-none d-md-block" data-src="/Frango Virtual.jpg" alt="Card image cap">
+            <img class="card-img-right flex-auto d-none d-md-block" src="/Frango Virtual.jpg" alt="Card image cap">
           </div>
         </div>
         <div class="col-md-6">
