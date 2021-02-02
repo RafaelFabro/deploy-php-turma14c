@@ -80,7 +80,7 @@
               <a href="#">Compre agora</a>
             </div>
             <img class="card-img-right flex-auto d-none d-md-block" src="/Frango Virtual.jpg" alt="Card image cap">
-            <div style="display:flex height: 100px; width:100%">
+            <div style="display:flex height: 100px; width:25%">
           </div>
         </div>
         <div class="col-md-6">
