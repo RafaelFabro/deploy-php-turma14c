@@ -73,13 +73,13 @@
             <div class="card-body d-flex flex-column align-items-start">
               <strong class="d-inline-block mb-2 text-primary">Diversão</strong>
               <h3 class="mb-0">
-                <a class="text-dark" href="#">Boné</a>
+                <a class="text-dark" href="#">Frango Virtual</a>
               </h3>
               <div class="mb-1 text-muted">R$75,00</div>
-              <p class="card-text mb-auto">Faça sucesso com este boné único.</p>
+              <p class="card-text mb-auto">Divirta-se com este frango virtual.</p>
               <a href="#">Compre agora</a>
             </div>
-            <img class="card-img-right flex-auto d-none d-md-block" src="/bone.jpg" alt="Card image cap">
+            <img class="card-img-right flex-auto d-none d-md-block" src="/Frango Virtual.jpg" alt="Card image cap">
           </div>
         </div>
         <div class="col-md-6">
